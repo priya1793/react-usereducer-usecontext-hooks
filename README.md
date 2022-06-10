@@ -1,3 +1,3 @@
-# react-ytlafo
+# react-usereducer-usecontext-hooks
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-ytlafo)
+example of UseReducer and useContext hooks together in action
