@@ -1,0 +1,23 @@
+.books-list {
+  width: 34%;
+  margin: 20px auto 0;
+  list-style: auto;
+  box-shadow: 0 0 10px #e1e1e1;
+  padding: 10px 10px 10px 40px;
+}
+
+.books-list li {
+  font-size: 16px;
+  line-height: 2em;
+}
+
+.book button {
+  margin-left: 10px;
+  outline: 0;
+  background: transparent;
+  border: none;
+  color: red;
+  font-weight: bold;
+  cursor: pointer;
+  font-size: 16px;
+}
